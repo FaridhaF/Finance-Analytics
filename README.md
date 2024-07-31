@@ -8,8 +8,11 @@ Project description:
 
 ** Project Links:**
 P&L for the Fiscal Years: https://github.com/FaridhaF/Finance-Analytics/blob/main/P%26L%20year%20report.pdf
+
 P&L statement by months: https://github.com/FaridhaF/Finance-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf
+
 P&L marketwise report: https://github.com/FaridhaF/Finance-Analytics/blob/main/P%26L%20markets.pdf
+
 P&L of Subzone by Quarters: https://github.com/FaridhaF/Finance-Analytics/blob/main/GM%25%20by%20quarters.pdf
 
 
