@@ -15,7 +15,7 @@ P&L statement by months: [https://github.com/FaridhaF/Finance-Analytics/blob/mai
 
 P&L by country report: [https://github.com/FaridhaF/Finance-Analytics/blob/main/P%26L%20markets.pdf](https://github.com/FaridhaF/Finance-Analytics/blob/main/P%26L%20by%20Country.pdf)
 
-P&L of Subzone by Quarters: https://github.com/FaridhaF/Finance-Analytics/blob/main/GM%25%20by%20quarters.pdf
+GM% by Quarters(Sub Zone):[ https://github.com/FaridhaF/Finance-Analytics/blob/main/GM%25%20by%20quarters.pdf](https://github.com/FaridhaF/Finance-Analytics/blob/main/GM%25%20by%20Quarters.pdf)
 
 
 ## Technical Skills:
